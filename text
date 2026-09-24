@@ -1,0 +1,12 @@
+atm_simulator_project/
+├── data/
+│   └── accounts.json
+├── src/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── auth.py
+│   ├── operations.py
+│   ├── storage.py
+│   └── models.py
+├── README.md
+└── statement.md
