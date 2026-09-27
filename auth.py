@@ -2,7 +2,7 @@ from storage import load_db
 
 def authenticate_user():
     db = load_db()
-    print("\n--- Welcome to VITyarthi ATM ---")
+    print("\n--- Welcome to ATM :::")
     acc_num = input("Enter Account Number: ").strip()
     
     if acc_num not in db:
