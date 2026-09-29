@@ -14,7 +14,7 @@ A modular, CLI-based ATM simulator built in Python. It allows users to log in, m
 - Built-in `json` and `datetime` libraries
 
 ## Steps to install & run the project
-1. Clone the repository: `git clone [repository_url]`
+1. Clone the repository: `https://github.com/vedsingh88933-star/Atm-Bank-Account-project/blob/main/README.md`
 2. Navigate to the project directory: `cd atm_simulator_project`
 3. Ensure the `data` directory exists with a valid `accounts.json` file.
 4. Run the application: `python src/main.py`
